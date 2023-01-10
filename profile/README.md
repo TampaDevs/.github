@@ -10,7 +10,7 @@ Visit us at https://www.tampadevs.com.
 
 ## Our Sponsors 
 
-Thanks to all of our incredible sponsors for helping to keep Tampa Devs running!
+Thanks to all of our incredible backers for helping to keep Tampa Devs running!
 
 <a href="https://opencollective.com/tampadevs#backers">
     <img src="https://opencollective.com/tampadevs/backers.svg?width=950" />
