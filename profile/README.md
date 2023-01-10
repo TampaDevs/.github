@@ -8,6 +8,20 @@ We strive to create unique opportunities for the local community to learn, grow,
 
 Visit us at https://www.tampadevs.com.
 
+## Our Sponsors 
+
+Thanks to all of our incredible sponsors for helping to keep Tampa Devs running!
+
+<a href="https://opencollective.com/tampadevs#backers">
+    <img src="https://opencollective.com/tampadevs/backers.svg?width=950" />
+</a>
+
+## Contributors
+
+We're grateful to these incredible people for contributing to Tampa Devs' code repositories.
+
+<img src="https://opencollective.com/tampadevs/contributors.svg?width=890&button=false" />
+
 ## More from Tampa Devs
 
 Follow us on:
@@ -29,10 +43,7 @@ Join our Slack at [this link](https://go.tampa.dev/slack)!
 
 ## Our Partners
 
-- [Tampa Bay Data Science](https://datascience.tampa.dev)
-- [Tampa Bay AWS User Group Meetup](https://www.meetup.com/Tampa-Bay-AWS/)
-- [Tampa Bay DevOpsDays](https://www.linkedin.com/company/devopsdaystampabay/)
-- [Orlando Devs](https://orlandodevs.com/)
+Check out all of Tampa's incredible tech meetup groups at [tampa.dev](https://tampa.dev/).
 
 ## Jobs
 
