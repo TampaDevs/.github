@@ -8,7 +8,7 @@ We strive to create unique opportunities for the local community to learn, grow,
 
 Visit us at https://www.tampadevs.com.
 
-## Our Sponsors 
+## Financial Contributors
 
 Thanks to all of our incredible backers for helping to keep Tampa Devs running!
 
@@ -16,7 +16,7 @@ Thanks to all of our incredible backers for helping to keep Tampa Devs running!
     <img src="https://opencollective.com/tampadevs/backers.svg?width=950" />
 </a>
 
-## Contributors
+## Code Contributors
 
 We're grateful to these incredible people for contributing to Tampa Devs' code repositories.
 
@@ -36,6 +36,10 @@ View our event videos and livestreams on:
 
 - [YouTube](https://go.tampa.dev/youtube)
 - [Twitch](https://go.tampa.dev/twitch)
+
+## Upcoming Events
+
+Check out upcoming events on out [Meetup page](https://go.tampa.dev/events).
 
 ## Slack 
 
