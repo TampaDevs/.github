@@ -51,7 +51,19 @@ Check out all of Tampa's incredible tech meetup groups at [tampa.dev](https://ta
 
 ## Jobs
 
-Check out our curated selection of awesome remote or in-person software development jobs around Tampa Bay at https://jobs.tampa.dev and [@tampadevjobs](https://twitter.com/tampadevjobs).
+Check out our awesome [reverse job board](https://talent.tampa.dev/) for developers in Tampa Bay. Be sure to [add your profile](https://talent.tampa.dev/role/new) and check out the [source code](https://github.com/tampadevs/talent.tampa.dev)!
+
+Some highlights:
+
+- **FREE** for developers! [Add your profile](https://talent.tampa.dev/role/new) to get discovered by recruiters and local businesses, or check out the developers [currently using it](https://talent.tampa.dev/developers).
+
+- 100% nonprofit. All proceeds support educational and community programs at Tampa Devs. Plus, me make our finances [completely public](https://talent.tampa.dev/open).
+
+- We donate 1% of revenue to support climate initiatives 🏕️ [Check it out](https://climate.stripe.com/nxdibE)
+
+- 100% open source. Built by developers, for developers 💙
+
+![image](https://github.com/TampaDevs/.github/assets/7227500/d29a7e99-9b9f-497e-9264-0fee4ac3c4c0)
 
 ## Merch
 
