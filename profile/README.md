@@ -1,8 +1,10 @@
 # About Tampa Devs
 
-Tampa Devs is the fastest growing software development community in Tampa Bay. We host monthly technical workshops from industry-leading companies including PwC, Microsoft, and more.
+Tampa Devs is the **fastest-growing nonprofit software development community** in Tampa Bay.
 
-Tampa Devs helps its members acquire new skills and find success in the technology industry. As a community-led nonprofit, our mission is to accelerate access to high-quality training and career opportunities in Tampa’s software industry. For free, and for everyone.
+We're united by a shared mission to break barriers in the tech industry. Each month, we host workshops and create educational and career opportunities for all backgrounds or experience levels. **For free, and for everyone.**
+
+Read our [origin story](https://go.tampa.dev/rise?utm_source=td_github&utm_medium=organic).
 
 We strive to create unique opportunities for the local community to learn, grow, and succeed together, and are proud to serve as a thriving hub for Tampa Bay's developer community. Whether you're a developer, student, technologist, or entrepreneur, our innovative partnerships with local Universities, non-profit tech institutes, and startup incubators mean there's something for everyone at Tampa Devs.
 
