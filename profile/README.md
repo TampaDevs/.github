@@ -32,7 +32,7 @@ Follow us on:
 - [Instagram](https://go.tampa.dev/instagram)
 - [Twitter](https://go.tampa.dev/twitter)
 - [LinkedIn](https://go.tampa.dev/linkedin)
-- [Email Newsletter](https://go.tampa.dev/)
+- [Email Newsletter](https://newsletter.tampa.dev/)
 
 View our event videos and livestreams on:
 
