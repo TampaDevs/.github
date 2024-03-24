@@ -39,9 +39,13 @@ View our event videos and livestreams on:
 - [YouTube](https://go.tampa.dev/youtube)
 - [Twitch](https://go.tampa.dev/twitch)
 
+## News
+
+Looking for local tech news? Take [news.tampa.dev](https://go.tampa.dev/news) for a spin, and be sure to [sign up for our newsletter](https://newsletter.tampa.dev/)!
+
 ## Upcoming Events
 
-Check out upcoming events on out [Meetup page](https://go.tampa.dev/events).
+Check out upcoming events on our [homepage](https://www.tampadevs.com/) and [Meetup](https://go.tampa.dev/events).
 
 ## Slack 
 
